@@ -1,5 +1,7 @@
 # This repository just for personal practice for JSX
 
+Note Keeper: https://codesandbox.io/s/keeper-app-part-1-starting-mo2g8?file=/src/App.jsx
+
 sample component:https://codesandbox.io/s/react-components-ljp0g
 
 import and using component: https://codesandbox.io/s/react-components-ljp0g?file=/src/index.js
