@@ -1,5 +1,7 @@
 # This repository just for personal practice for JSX
 
+Break the props further: https://codesandbox.io/s/react-devtools-0urt0?file=/src/components/Card.jsx
+
 React props practice:https://codesandbox.io/s/react-props-practice-rrvgf?file=/src/components/App.jsx
 
 Note Keeper: https://codesandbox.io/s/keeper-app-part-1-starting-mo2g8?file=/src/App.jsx
