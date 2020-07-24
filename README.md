@@ -1,5 +1,7 @@
 # This repository just for personal practice for JSX
 
+Sample Question: https://codesandbox.io/s/gradplanner-interview-20-04-01-d3qfk?file=/src/App.js:288-293
+
 Note Keeper:https://codesandbox.io/s/keeper-app-part-2-starting-tdntl
 
 Mapping practice: https://codesandbox.io/s/mapping-components-practice-b172i?file=/src/components/App.jsx
