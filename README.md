@@ -1,4 +1,4 @@
-# This repository just for personal practice for JSX
+# This repository just for personal practice for JSX using sandbox
 
 Sample Question: https://codesandbox.io/s/gradplanner-interview-20-04-01-d3qfk?file=/src/App.js:288-293
 
